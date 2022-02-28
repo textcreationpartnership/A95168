@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of certaine speciall and remarkable passages from both Houses of Parliament, since Monday the 15. of August till Friday the ninteenth 1642. Containing these perticulars, &amp;c. I. Of letters from Scotland to both Houses of Parliament. II. Of news from Ireland. III. A message from both Houses to the Earle of Leicester for his speedy dispatch for Ireland. IV. An other to the Lord Keeper, concerning his delivering up of the Seale to Endymion Porter. V. The fetching of Armes from Kent, and bringing Sir Iohn Sackvile to the Parliament. VI. Of letters from the Earle of Warwick, and his surprising of a shippe from Holland. VIII. Of the charge of the new Lord Major of London. IX. The bringing up Mr. Barrell and minister in Kent to the Parliament for deliquency. X. The apprehending of three cavalieres in Somerset-shire, and bringing up to the Parliament. XI. Of a proclamation from the King for the setting up of his standerd at Nottingham of the state of the Kings army. Ordered to bee forthwith printed, and published. Hen. Elsyng. Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95168</idno>
+            <idno type="STC">Wing T2901</idno>
+            <idno type="STC">Thomason E112_36</idno>
+            <idno type="STC">ESTC P1202</idno>
+            <idno type="STC">ESTC R20492</idno>
+            <idno type="EEBO-CITATION">99864368</idno>
+            <idno type="PROQUEST">99864368</idno>
+            <idno type="VID">116596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116596)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of certaine speciall and remarkable passages from both Houses of Parliament, since Monday the 15. of August till Friday the ninteenth 1642. Containing these perticulars, &amp;c. I. Of letters from Scotland to both Houses of Parliament. II. Of news from Ireland. III. A message from both Houses to the Earle of Leicester for his speedy dispatch for Ireland. IV. An other to the Lord Keeper, concerning his delivering up of the Seale to Endymion Porter. V. The fetching of Armes from Kent, and bringing Sir Iohn Sackvile to the Parliament. VI. Of letters from the Earle of Warwick, and his surprising of a shippe from Holland. VIII. Of the charge of the new Lord Major of London. IX. The bringing up Mr. Barrell and minister in Kent to the Parliament for deliquency. X. The apprehending of three cavalieres in Somerset-shire, and bringing up to the Parliament. XI. Of a proclamation from the King for the setting up of his standerd at Nottingham of the state of the Kings army. Ordered to bee forthwith printed, and published. Hen. Elsyng. Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 19.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116596:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>
+               <hi>A TRVE RELATION OF Certaine ſpeciall and Remark<g ref="char:EOLhyphen"/>able Paſſages from both Houſes of</hi> Parliament, <hi>ſince Monday the 15. of</hi> Auguſt <hi>till</hi> Friday <hi>the Ninteenth 1642.</hi>
+            </p>
+            <p>
+               <hi>Containing theſe perticulars, &amp;c.</hi>
+            </p>
+            <list>
+               <item>I. Of Letters from <hi>Scotland</hi> to Both Houſes of Parliament.</item>
+               <item>II. Of news from <hi>Ireland.</hi>
+               </item>
+               <item>III. A Meſſage from both Houſes to the Earle of <hi>Leiceſte<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> for his ſpeedy diſpatch for <hi>Ireland.</hi>
+               </item>
+               <item>IV. An other to the Lord Keeper, concerning his delivering up of the Seale to <hi>Endymion Porter.</hi>
+               </item>
+               <item>V. The fetching of Armes from <hi>Kent,</hi> and bringing Sir <hi>Iohn Sackvile</hi> to the Parliament.</item>
+               <item>VI. Of Letters from the Earle of <hi>Warwick,</hi> and his ſurpriſing of a ſhippe from <hi>Holland.</hi>
+               </item>
+               <item>VII. The taking of the Earle of <hi>Barkſhire,</hi> and foure other Gentlemen in <hi>Buckingham-ſhire,</hi> and their bringing up to London.</item>
+               <item>VIII. Of the charge of the new Lord Major of <hi>London.</hi>
+               </item>
+               <item>IX. The bringing up of Mr. <hi>Barrell</hi> a Miniſter in <hi>Kent</hi> to the Parliament for Delinquency.</item>
+               <item>X. The Apprehending of three Cavalieres in <hi>Somerſet-ſhire,</hi> and bringing up to the Parliament.</item>
+               <item>XI. Of a Proclamation from the King for the ſetting up of his Standerd at <hi>Nottingham</hi> and of the ſtate of the Kings Army.</item>
+            </list>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered to bee forthwith Printed, and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſyng. Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Francis Le<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</hi> 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_orders">
+            <pb facs="tcp:116596:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb n="1" facs="tcp:116596:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>Inſtructions for Sir <hi>William Brereton,</hi> one of the Members of the Houſe of Commons, and one of the Deputy Lieutenants of the Countie of <hi>Cheſter,</hi> and for the reſt of the Deputy Lieute<g ref="char:EOLhyphen"/>nants for that Courtie.</head>
+            <p>WHereas it doth appeare to the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament now aſſembled, that the King ſeduced by wicked Counſell, intends to make War againſt the Parliament, and for that it is not improbable that under colour of a guard for his Majeſties perſon, or ſome o<g ref="char:EOLhyphen"/>ther pretences, the Knights, Gentlemen, Freeholders, and In<g ref="char:EOLhyphen"/>habitants of the County of <hi>Cheſter,</hi> may be drawne together, therefore you, and every of you, ſhall take ſpeciall care that the Ordinance concerning the <hi>Militia</hi> be put in execution through the whole County; and the Sheriffe, and all other Officers are hereby moved to aſſiſt you, and every of you therein; and if any perſon whatſoever ſhal leavie or endeavor to leavy any Souldiers, or draw, or keepe together the trained bands, or other armed Forces of the ſaid County, or any o<g ref="char:EOLhyphen"/>ther Force, by colour or pretence of any Commiſſion or warrant from his Majeſty, under the great Seale or other<g ref="char:EOLhyphen"/>wiſe, without Order or conſent of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, you, and every of you, ſhall in the name and authority of both Houſes, require and command all perſons to forbeare the execution of ſuch Commiſſion or warrant, &amp; the ſame to be delivered up to you, or any of you, to be ſent to the Spea<g ref="char:EOLhyphen"/>ker of the Houſe of Commons, and you, and every of you, ſhall require and command all his Majeſties Subjects, to for<g ref="char:EOLhyphen"/>beare to obey any ſuch warrant or Commiſsion, and you, &amp; every of you, are hereby required to draw together ſuch of
+<pb n="2" facs="tcp:116596:3"/>
+               <!-- PDF PAGE 93 -->the trained Bands and other forces of the ſaid County, as ſhall be expedient for the ſuppreſsing of all ſuch Aſſemblies, and for apprehending of all or any perſon or perſons as ſhall after admonition and command by you, or any of you, made unto them to forbeare the execution of any ſuch command or warrant, or the calling or gathering of or keeping together any ſuch forces or aſſemblies, ſtill perſiſt in doing the ſame, and likewiſe ſuch diſaffected perſons as ſhall be found raiſing any parties or forces againſt the Parliament, to be ſent up hither to anſwer ſuch their offences as to law and Juſtice ſhall appertaine; and you the above ſaid Sir <hi>Walliam Brereton,</hi> ſhall in the names of the Lords and Commons, require and com<g ref="char:EOLhyphen"/>mand the Sheriffe of the County of <hi>Chester,</hi> to publiſh throughout the ſaid County, the Declarations formerly Printed by both Houſes of Parliament, and you, and every of you, ſhall further take care that ſuch Reſolutions, and Orders of both Houſes (as have bin, or ſhal be delivered, and ſent down to you, or any of you) be put in execution, &amp; ſhall require the Sheriffe and Juſtices of the peace, and all other his Majeſties Officers and Lieutenants, to be aiding and aſsiſting to you for that purpoſe; and you ſhall declare unto all men, that it hath beene, and ſtill ſhall be the care and endeavour of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament to provide for his Majeſties ſafety, that they doe not, nor ever did know of any evill intended to his Maje<g ref="char:EOLhyphen"/>ſties perſon which might move him to require any extraordi<g ref="char:EOLhyphen"/>nary armed guard, that his greateſt ſafety is in the Parliament, and his greateſt danger in withdrawing himſelfe from them; To that under colour of doing him ſervice, diſaffected and Malignant perſons, obnoxious for their bad counſells againſt the Juſtice of the Law, labour to raiſe forces and a party, a<g ref="char:EOLhyphen"/>gainſt the Parliament, which at the laſt may break out into o<g ref="char:EOLhyphen"/>pen Rebellion &amp; civil war, to the deſtruction both of King and Kingdome, you the ſaid Sir <hi>William Brereton,</hi> and every of you, ſhall endeavour to cleare the proceedings of Parliament from all imputation and aſperſions, and ſhall from time to time
+<pb n="3" facs="tcp:116596:3"/>
+               <!-- PDF PAGE 93 -->certifie ſo of all things which you conceive neceſſary for the preſent ſervice, and that we may have a ſudden warning of it, and that our directions to you as well as your advertiſements to us may have a cleare and ready paſſage, you and every of you, ſhall lay a ſtrict charge upon all poſt-maſters, that they doe not ſuffer any Letters or other diſpatches to or from the Parliament to be intercepted or ſtayd; and if any ſhall pre<g ref="char:EOLhyphen"/>ſume to make ſtay of ſuch diſpatches, you and every of you, ſhall direct the poſt-maſters to repaire to the Juſtices of the peace, Conſtables, and all others Officers, for their ayd and aſ<g ref="char:EOLhyphen"/>ſiſtance, who are hereby required to take a ſpeciall care that there may be no ſuch interruptions.</p>
+            <p>You and every of you, ſhall take care that none of the Re<g ref="char:EOLhyphen"/>cuſants armes or other Amunition of the ſaid County, be car<g ref="char:EOLhyphen"/>ried or taken out of the County upon any pretence or comand whatſoever, without warrant of both Houſes of Parliament.</p>
+            <p>And you and every of you, ſhall give order and direction to the Sheriffes, Juſtices of the peace and other Officers, to require and command all the Popiſh Recuſants in that Coun<g ref="char:EOLhyphen"/>ty, to confine themſelves to their dwellings, according to the Statute in that caſe provided, and if any ſuch Recuſant ſhall be found to tranſgreſſe therein, you and every of you, ſhall cauſe the Juſtices of the peace forthwith to bind them to their good behaviour, and upon refuſall or neglect to give ſecurity ac<g ref="char:EOLhyphen"/>cordingly, to commit them to priſon, and further to proceed againſt them according to the Law.</p>
+            <p>You ſhall alſo in the name of both Houſes of Parliament, require all ſuch perſons who have in their cuſtody any part of the publike Magazine of your County, to deliver the ſame un<g ref="char:EOLhyphen"/>to you or ſome of you, to be imployed for the ſervice of the ſaid County.</p>
+            <p>And you &amp; every of you, are likewiſe to give charge from both Houſes of Parliament, to all Captaines and Lieutenants, and other Officers of the <hi>Militia,</hi> that they be obſervant to ſuch
+<pb n="4" facs="tcp:116596:4"/>
+               <!-- PDF PAGE 94 -->directions as they ſhall from time to time receive from the Lieutenant of the County or his Deputies, or any of them, for due performance of any commands of the ſaid hou<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>And you and every of you, ſhall reſiſt and repell, and are hereby authorized to reſiſt and repell by the power of the ſaid County and by all other wayes and meanes, all ſuch force and violence as ſhall be raiſed or brought by any perſon or perſons to the hindrance or diſturbance of the ſaid ſervice, or for the Arreſting or ſeizing the perſons of you or any of you, or of any other that ſhall be imployed in the Ordinan<g ref="char:EOLhyphen"/>ces, inſtructions, and commands of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, for any thing done in execution thereof, and the She<g ref="char:EOLhyphen"/>riffe, and the Juſtices of peace of the ſaid County, and all o<g ref="char:EOLhyphen"/>ther Officers and Subjects are hereby injoyned to be ayding and aſsiſting to you and every of you, for the more better and ſpeedier execution of the premiſes.</p>
+            <p>And the Lords and Commons doe hereby declare, that they will protect, defend and aſsiſt, all manner of perſons for ſuch actions as they ſhall performe in purſuance of theſe in<g ref="char:EOLhyphen"/>ſtructions and other Orders and commands of the ſaid Hou<g ref="char:EOLhyphen"/>ſes of Parliament.</p>
+            <closer>
+               <signed>John Browne Cleri. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb n="5" facs="tcp:116596:4"/>
+            <!-- PDF PAGE 94 -->
+            <head>Orders of the Lords and Commons Aſſembled in Parliament.</head>
+            <p>IT is this day Ordered by the Lords and Commons in Parliament aſſembled, that the ſeverall Lords Lieute<g ref="char:EOLhyphen"/>nants appoynted by Parliament, their Deputy Lieute<g ref="char:EOLhyphen"/>nants, the Juſtices of the peace, and other his Majeſties Offi<g ref="char:EOLhyphen"/>cers within the Kingdome of <hi>England</hi> and Dominion of <hi>VVales,</hi> ſhall take ſpeciall care to prevent and ſuppreſſe all Ryots, Tumults, breaking into, or Robbing houſes, break<g ref="char:EOLhyphen"/>ing into Churches, taking away of the Goods of any perſon, or taking of Victualls, without due payment for the ſame, and to take and Apprehend all ſuch perſon or perſons as ſhall doe or commit any ſuch Outrages as aforeſaid, and to proceed againſt them according to Law. And it is further Ordered, that the Commanders and ſeverall Officers, ſhall give their beſt aſſiſtance for the apprehenſion and puniſhment of all ſuch perſons which ſhall be found guilty of the miſ<g ref="char:EOLhyphen"/>demeanors aforeſaid.</p>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb n="6" facs="tcp:116596:5"/>
+            <!-- PDF PAGE 95 -->
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis</hi> Auguſt 18, 1642.</date>
+               </dateline>
+            </opener>
+            <p>WHereas there have beene divers Complaints made unto us of many diſorders committed by the Soldi<g ref="char:EOLhyphen"/>ers in their marching, and in ſuch places wherein they have beene quartered or Billited, which diſorders (as is informed) have beene partly occaſioned by the neglect of their Officers to goe along with them and conduct them: It is therefore Ordered by the Lords and Commons Aſſembled in Parliament, that the Lord Generall be deſired to give Command to all his Officers, that they take care to attend according to the duty of their ſeverall places, that the Soul<g ref="char:EOLhyphen"/>diers thereby may be hereafter kept from ſtragling up and downe the Countries: And to that end to lay his Command upon the Officers of each Company, both in the Marching, Quartering, and Billetting, to be in perſon amongſt the Soul<g ref="char:EOLhyphen"/>diers themſelves, to prevent any diſorders whatſoever, and puniſh ſuch as ſhall offend.</p>
+         </div>
+         <div type="license">
+            <p>ORdered by the Lords and Commons Aſsembled in Parliament, that theſe Orders be forthwith Printed and Published.</p>
+            <closer>
+               <signed>John Browne Gleric, Parliamentoram.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="document">
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <p>
+               <pb n="8" facs="tcp:116596:6"/>
+               <!-- PDF PAGE 96 -->
+come thither? Ordaining the Earle of <hi>Cumberland</hi> Generall for the raiſing of Forces in the Northerne parts, Proclaiming all ſuch as refuſe to Obey the Commiſſion of Array, to be Traitors; And divers o<g ref="char:EOLhyphen"/>ther threats againſt ſuch as oppoſe it.</p>
+            <p>There was alſo a Letter preſented to the Houſes from <hi>Yorke,</hi> informing the true ſtate of the Kings Army, that He hath about 4000. Horſe, and 2000. Foot, and not more; the greateſt part thereof being very deſperate, Lew'd, and inconſiderable perſons that daily commit great outrage in the Country, pil<g ref="char:EOLhyphen"/>laging and ſpoyling all that ſeeme any wayes well af<g ref="char:EOLhyphen"/>fected to the Parliament, and commit great ſpoyles up and down the country, without any reſpect of per<g ref="char:EOLhyphen"/>ſons, whereby the Country is very ſorely oppreſſed by them.</p>
+            <p>Whereupon both Houſes are drawing up a Decla<g ref="char:EOLhyphen"/>ration againſt the Kings Proclamation for the ſetting up of his Standerd, commanding that none proclaime the ſame in any part of the Kingdome; And that ſuch as have or ſhall ſuffer any loſſes by the Cavaliers, ſhall have reparation allowed them.</p>
+            <closer>
+               <signed>Hen. Elſyng Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
